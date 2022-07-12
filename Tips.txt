@@ -1,0 +1,84 @@
+29-> Habit building with the calendar trick
+	-Draw a line across a day when you've studied and paste it somewhere you'll see it
+	-There's something about not wanting to break that continious line that motivated people.
+	-Just keep learning.
+
+39-> Avoid getting distracted 
+	-A study by some scientists in italy says that if you're distracted for a minute then to get back to the same level of focus it might take as much as 25 mins.
+	-So when sitting down to study put your phone on DND & hid it out of your sight 
+	-For Some people they might need to shut themselves in a room.
+
+79-> Beat Procrastination
+	-Avoid procrastination by immediately jump starting your work.
+	-use pomodora technique study for 25mins and have 5 mins break.
+	-And treat yourself during the break.
+
+94-> Building a programming habit
+	-Have a cue to build a habit
+	-Have a cue on top of an existing habit[a.k.a Habit Stacking]
+	 		
+139-> Practice more
+	-When you follow along a course just absorbing the information you might think it's easy
+	-but when you are given a challenge all of a sudden it's as if you haven't learnt anything.
+	-So to avoid this Pull information out regularly .i.e, Practice more problems online.
+
+148-> The 20Minute Rule
+	-Trick your brain to work for just 20 mins
+	-then you might do more than 20 mins, if not then its still 20 mins right.
+
+210->Dealing with frustration 
+	-First thing to do is Take a break 
+	-When you focus on something for too long it starts getting weird.So instead go for a walk or something.
+
+216->Sleep is my Secret Weapon
+	-Many have the misconception that to be successful you need to be prepared to be sleep depreived but this couldn't be far from the truth.
+	-Sleep is important, without proper sleep you can't do something creative and can't keep information for long. 
+	-So Sleep well Do Well.
+	
+225->Step up to the Challenge
+	-In life when you are preseneted with an opportunity and you think you aren't good enough talented enough to do it.
+	-Remember to always look out for these moments and say to yourself that you'll prep harder than anyone and so take the offer.
+	-Remember it is these moments that will make you grow in your career and life. 
+
+238->How to Solidify your knowledge
+	-When you've learnt something new explaining it to someone else helps in solidifying that knowledge as you have to pull that knowledge out of your brain.
+
+252->Location, Location, Location!
+	-Students complain that it's easy and obvious when they're following the tutorial but seems like they learnt nothing when they try to do somwthing by themselves.
+	-This is because learning comes from practice and what you're doing is just being introduced to a concept when following a tutorial, So make sure to understand the lesson and do it yourself to really learn.
+
+262-> Spaced repetition
+	-If you study a topic once you'll forget it
+	-So come back to that topic a day/week or a month later review it to better memorize those topics
+	
+318-> When life Gives You Lemons
+	-Remember the things which you can't change usually have to do with other people
+	-but what you can control is your perspective of the situation, If someone hurt you then having a great life and becoming a great person is the best revenge.
+	-Life is cruel, The world is cruel but don't let that stop you.
+
+325-> Find all the hard working people
+	-when you feel like procrastinating it's better to go to a place with a lot of hard working people like a Library, or a study buddy
+	- seeing all those hard working people you will be motivated to work hard as well.
+
+335-> Daily Routines
+	-Have a Daily routine so you don't have to constantly think about what to do next.
+	-it's better to do the hardest or something that you hate doing but is important! First thing in the morning
+	-Doing so you'll have a sense of accomplishment of doing the Hardest thing and you'll be able to knock everything else off easily.
+
+341-> Deep Work
+	-Do read the book : Deep work
+	-Even if you sit hours together in front of the laptop but sleepy, thinking about something else or simply distracted then that's not gonna do much help.
+	-So rather if you're studying give your 95-100% focus to that task not thinking about play.
+	-and when enjoying your free time don't think and stress about work.
+
+436-> How to do build your own Product
+	-when building your own product first write down the core functionalities you want that'll will set you apart from others.
+	-Then build the simplest version of it.
+	-Some people try to build a cross between facebook, twitter & snapchat. that probably won't ever happen because it's too ambitious.
+	-So Instead go from small projects to big.This way you'll be motivated to build these projects, else you'll drop them mid-way.
+	
+	-So start small start with the CORE functionalities -->Take FEEDBACK from users, Ask them what they'd like more or what's not working -->Then work to IMPROVE on it -->Now you've come under the Full Development lifeCycle and aim to get into this FeedBack loop as quickly as possible.
+
+	-That's how you build a successfull business.
+
+	 

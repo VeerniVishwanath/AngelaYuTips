@@ -1,0 +1,89 @@
+ WEB
+Top Tips
+
+1->Watch the video upto the 10min mark, understand it then code it
+2->Learn Typing - keybr.com
+3->Take notes- Cornell note taking system 
+4->Mark things for review that you don't understand, review it , research around it, and then come back it'll be clear this time.
+5->Practice = Mastery
+6->Struck- Google it, use StackOverFlow
+
+
+**Rules to learning Coding**
+
+Rule 1:Trick our brain with a 20min rule
+	->Coding is like gym ,Learn Daily
+	->Use inertia to your advantage ,Code for just 20mins daily
+	->Develop a habit ,learn daily for a month
+	->Draw a line in the monthly calendar boxes and try not to skip it
+
+Rule 2:Code for a purpose
+    ->Coding just for the sake learning to code is difficult
+    ->This will eat up all your internal motivation
+    ->So instead code to build or make something, Anything.
+    ->Working on your own projects is more fun and is what motivates a loads of people 
+
+Rule 3:There's no "perfect" language to learn
+	->Programming languages are tools designed for different usescases,
+	->We use a hammer to hammer a nail and a spanner to fix a pipe not the other way,
+
+Rule 4:Understand what you are writing
+	->Don't get struck in "This is how you draw an owl" phenomenon.
+	->Don't fall for a tutorial where it jumps beginner to advanced in 3 lines.
+	->Understand what you'r typing and what it does.
+	->If the tutorial is too advanced then focus on better foundations.
+	->If the ramp is too steep you'll get lost and if it's too slow you'll get bored, So find the right gradient that suits you
+
+Rule 5:It's Ok to not know
+	->Over 70% Software Devs suffer from Imposter Syndrome.
+	->Most beginners are afraid to ask,search for code because they feel like they're frauds.
+	->It's OK to search, ask, copy code on StackOverFlow as every Dev has done that.\
+	->But it's also important to understand the code before you use it.
+	->The important skill you need to hone is to ask good questions and understand the answer.
+
+Rule 6:Be a copycat
+	->If you lack ideas then copy ideas from other existing projects 
+	->this'll help you figure out things
+
+Rule 7:Be Accountable
+	-> Accountabiilty and commitment is required for learning
+	->Otherwise we're more likely to quit especially with these Online Courses.
+	->So find a learing buddy/Mentor or anyone you can find to hold you accountable and review your codes
+
+Rule 8:Keep Learning
+	->Great programmers relish learning
+	->The world keeps moving, if you stay you'll be left behind.
+	->If your needs change, then learn a new tool, keep learning and stay relavent.
+
+Rule 9:Play Foosball
+	->For there's a bug and there's always a bug in the code.
+	->So when can't figureout what's wrong with your code Step away Play Foosball, take a walk, sleep on it 9/10 times the solution becomes apparent and the remaining 1/10 times you just fucked up.
+
+Rule 10:Get a Mentor
+	->Learning a new skill with a mentor can exponentially help you.
+	->A mentor will offer you decades of accumulated wisdom that can improve your ability in few hours
+	->meetup.com is a good place to find mentors, by going there you can exchange your expertise for their expertise your time for their time.
+
+Rule 11:Get into the habit of chunking
+	->So you get an awesome idea but is beyond your current skill level then break it down into simpler chunks which are easy to handle.
+	->The more you break down the problem and define the issues the easier it is to package your code into bite-sized chunks
+
+Rule 12:Break someone else's code
+	->Don't just copy paste code from StackOverFlow that would only teach you code reliance.
+	->So instead Break down the code understand it & then use it, So that next time a similar problem arises you'll be able to solve it
+
+	Step 1-> copy & paste the code
+	Step 2-> check everythings working as intended
+	Step 3-> delete code line by line
+	Step 4-> See what happens when you delete a line and why it happens
+	Step 5-> Even if you know what a line does delete it none the less i.e,to test your assumptions against the outcome
+	Step 6-> Swap the lines and see if they still works with different orders.Why were they written in the order they were written?
+
+	->If you want to make a instagram clone then go to github and download the code
+	->now add modifications to it and see if still works or why doesn't it work.
+	->use the socratic method- Tear down the project and understand how it's built.
+	->Take a small project from a well known programmer and use it ,check all it's functionalities.
+	->Then build the same app from scratch and compare both codes and see if you could've written the code more effeciently.
+
+
+
