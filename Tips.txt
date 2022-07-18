@@ -80,6 +80,10 @@
 	-Motivation is often associated with wanting to jump out of bed to do a task, But in reality you might really do jump out of bed and other times you might be like "no more computer for a year."
 	-So try to be consistent, Do coding for 1 hour daily that way it'll be easy for you to do it on subsequent days because Discipline Breeds Discipline. 
 
+361-> Dealing with Limitations
+	-As a child we are more likely to overcome our limitations if you were put in a very differnet environment but as an adult it is much more easier for us to just blame others and blame situations which we can't change.
+	-Instead focus on things you can change like get up 1 hour earlier in the morning. Because we can blame on a million things which we will get us nowhere but taking action to change things will get you success.
+
 436-> How to do build your own Product
 	-when building your own product first write down the core functionalities you want that'll will set you apart from others.
 	-Then build the simplest version of it.
