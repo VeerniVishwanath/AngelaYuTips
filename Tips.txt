@@ -84,6 +84,11 @@
 	-As a child we are more likely to overcome our limitations if you were put in a very differnet environment but as an adult it is much more easier for us to just blame others and blame situations which we can't change.
 	-Instead focus on things you can change like get up 1 hour earlier in the morning. Because we can blame on a million things which we will get us nowhere but taking action to change things will get you success.
 
+375-> How to get a job as a Programmer
+	-Admittedly there are companies who have a blanket rule to only let people in the door who have a x degree from x college, But most companies aren't like that.
+	-Go to Indeed or linkedin and see what recruiters are looking for in terms of skills and make a project based on that, build a portfolio.
+	-and be active in communities like StackOverFlow, this will show recruiters that you can collaborate with both seniors who you can learn from and juniors who you can teach.   
+
 436-> How to do build your own Product
 	-when building your own product first write down the core functionalities you want that'll will set you apart from others.
 	-Then build the simplest version of it.
